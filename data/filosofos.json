@@ -1,0 +1,1444 @@
+{
+  "filosofos": [
+    {
+      "id": 1,
+      "name": "Abu al-Walid Muhammad ibn Ahmad ibn Rushd (Averroes)",
+      "region": "espana",
+      "regionName": "España (Mundo islámico / Al-Ándalus)",
+      "subcategory": "Edad Media (Edad de Oro del Islam, c. Siglos X-XII)",
+      "era": "1126 - 1198",
+      "area": "Filosofía y teología islámica, aristotelismo",
+      "concepts": "Relación entre fe y razón, la eternidad del mundo, el intelecto agente",
+      "works": [
+        "Comentarios a Aristóteles (De anima, Metaphysica, etc.)",
+        "La destrucción de la destrucción (Tahafut al-Tahafut)",
+        "Discurso decisivo (Faṣl al-Maqāl)"
+      ],
+      "location": [37.8882, -4.7794],
+      "city": "Nacido en Córdoba (Califato Omeya de Córdoba)",
+      "color": "#3498db"
+    },
+    {
+      "id": 2,
+      "name": "Domingo de Soto",
+      "region": "espana",
+      "regionName": "España",
+      "subcategory": "Escolástica Renacentista (Siglo XVI)",
+      "era": "1494 - 1560",
+      "area": "Filosofía natural, lógica y derecho (Escuela de Salamanca)",
+      "concepts": "Movimiento de caída libre (dinámica pre-galileana), teoría de la guerra justa, ius gentium",
+      "works": [
+        "Deliberación sobre la causa de los pobres (1545)",
+        "Comentario a la Física de Aristóteles (1545)",
+        "De iustitia et iure (1553)"
+      ],
+      "location": [40.9429, -4.1088],
+      "city": "Segovia",
+      "color": "#3498db"
+    },
+    {
+      "id": 3,
+      "name": "Juan Luis Vives",
+      "region": "espana",
+      "regionName": "España",
+      "subcategory": "Siglo de Oro (Renacimiento y Barroco)",
+      "era": "1493 - 1540",
+      "area": "Humanismo renacentista, filosofía moral y pedagógica",
+      "concepts": "Crítica a la escolástica, filosofía práctica centrada en el hombre, pionero de la psicología empírica",
+      "works": [
+        "De anima et vita (1538) - análisis de las pasiones",
+        "De disciplinis (1531) - tratado educativo",
+        "De subventione pauperum (1526) - filosofía social"
+      ],
+      "location": [39.4699, -0.3763],
+      "city": "Nacido en Valencia, desarrolló su carrera en Flandes (Lovaina, Brujas)",
+      "color": "#3498db"
+    },
+    {
+      "id": 4,
+      "name": "Francisco Suárez",
+      "region": "espana",
+      "regionName": "España",
+      "subcategory": "Siglo de Oro (Renacimiento y Barroco)",
+      "era": "1548 - 1617",
+      "area": "Metafísica y filosofía del derecho (Escuela de Salamanca, Segunda Escolástica)",
+      "concepts": "Ius gentium como derecho positivo internacional, soberanía popular indirecta, concepto de ens inquantum ens",
+      "works": [
+        "Disputaciones metafísicas (1597)",
+        "De legibus (1612)"
+      ],
+      "location": [37.1773, -3.5986],
+      "city": "Granada (nacido), enseñó en Salamanca, Roma y Coímbra",
+      "color": "#3498db"
+    },
+    {
+      "id": 5,
+      "name": "José Ortega y Gasset",
+      "region": "espana",
+      "regionName": "España",
+      "subcategory": "Siglo XX",
+      "era": "1883 - 1955",
+      "area": "Raciovitalismo y razón histórica",
+      "concepts": "'Yo soy yo y mi circunstancia', la vida como realidad radical, razón vital e histórica frente a la razón pura",
+      "works": [
+        "El tema de nuestro tiempo (1923)",
+        "¿Qué es filosofía? (1929)",
+        "La rebelión de las masas (1930)"
+      ],
+      "location": [40.4168, -3.7038],
+      "city": "Madrid",
+      "color": "#3498db"
+    },
+    {
+      "id": 6,
+      "name": "María Zambrano",
+      "region": "espana",
+      "regionName": "España",
+      "subcategory": "Siglo XX",
+      "era": "1904 - 1991",
+      "area": "Filosofía poética y razón poética",
+      "concepts": "La razón 'piadosa' y 'poética', capaz de acoger lo sagrado y lo simbólico sin dogmatismo",
+      "works": [
+        "Claros del bosque (1977)",
+        "La tumba de Antígona (1967)",
+        "Hacia un saber sobre el alma (1950)"
+      ],
+      "location": [36.7783, -4.1008],
+      "city": "Vélez-Málaga. Exiliada tras la Guerra Civil",
+      "color": "#3498db"
+    },
+    {
+      "id": 7,
+      "name": "Luís de Molina",
+      "region": "portugal",
+      "regionName": "Portugal",
+      "subcategory": "Renacimiento",
+      "era": "1535 - 1600",
+      "area": "Filosofía moral, teología y derecho (Escuela de Salamanca, Jesuitas)",
+      "concepts": "Teoría del scientia media (ciencia media) de Dios, teoría del precio justo",
+      "works": [
+        "Concordia liberi arbitrii cum gratiae donis (1588)",
+        "De iustitia et iure (1593-1609)"
+      ],
+      "location": [38.5720, -7.9070],
+      "city": "Cuenca (España) de padres portugueses, desarrolló su obra en Évora (Portugal)",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 8,
+      "name": "Lucio Anneo Séneca",
+      "region": "italia",
+      "regionName": "Italia (Imperio Romano)",
+      "subcategory": "Período Helenístico e Imperio Romano",
+      "era": "c. 4 a.C. - 65 d.C.",
+      "area": "Estoicismo Romano (ética)",
+      "concepts": "Providencia, virtus como único bien, control de las pasiones (affectus), filosofía como guía para la vida",
+      "works": [
+        "Cartas a Lucilio (Epistulae morales ad Lucilium)",
+        "Sobre la ira (De Ira)",
+        "Cuestiones Naturales"
+      ],
+      "location": [37.8882, -4.7794],
+      "city": "Nacido en Corduba (Hispania), desarrolló su carrera en Roma",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 9,
+      "name": "Pedro de Juan Olivi",
+      "region": "italia",
+      "regionName": "Italia / Francia",
+      "subcategory": "Medieval (Siglo XIII)",
+      "era": "1248 - 1298",
+      "area": "Teología y filosofía franciscana (Escolástica)",
+      "concepts": "Teoría del usus pauper (uso pobre), intencionalidad y atención (aspectus), influjo en Duns Scoto",
+      "works": [
+        "Cuestiones sobre la perfección evangélica",
+        "Comentario a las Sentencias"
+      ],
+      "location": [43.342, 3.216],
+      "city": "Serignan (Languedoc), activo en la Toscana y Umbría",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 10,
+      "name": "Giovanni Pico della Mirandola",
+      "region": "italia",
+      "regionName": "Italia",
+      "subcategory": "Renacimiento (Siglo XV)",
+      "era": "1463 - 1494",
+      "area": "Humanismo renacentista, sincretismo filosófico",
+      "concepts": "Dignidad del hombre, libertad creativa, concordia entre tradiciones (Platón, Aristóteles, Cábala)",
+      "works": [
+        "Discurso sobre la dignidad del hombre",
+        "900 tesis (Conclusiones philosophicae)"
+      ],
+      "location": [44.887, 11.066],
+      "city": "Mirandola (Ducado de Ferrara)",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 11,
+      "name": "Giambattista Vico",
+      "region": "italia",
+      "regionName": "Italia",
+      "subcategory": "Ilustración (Setecento)",
+      "era": "1668 - 1744",
+      "area": "Filosofía de la historia y jurisprudencia",
+      "concepts": "Ley del corso e ricorso, ciencia nueva basada en mitos y lenguaje, crítica al cartesianismo",
+      "works": [
+        "Principios de una Ciencia Nueva (1725)"
+      ],
+      "location": [40.8518, 14.2681],
+      "city": "Nápoles",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 12,
+      "name": "Antonio Rosmini Serbati",
+      "region": "italia",
+      "regionName": "Italia",
+      "subcategory": "Siglo XIX",
+      "era": "1797 - 1855",
+      "area": "Filosofía del derecho y epistemología",
+      "concepts": "El ser como objeto fundamental de la mente, sentimiento fundamental, síntesis catolicismo-modernidad",
+      "works": [
+        "Nuevo ensayo sobre el origen de las ideas (1830)",
+        "Filosofía del derecho (1841)"
+      ],
+      "location": [45.8909, 11.042],
+      "city": "Rovereto",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 13,
+      "name": "Galvano della Volpe",
+      "region": "italia",
+      "regionName": "Italia",
+      "subcategory": "Siglo XX",
+      "era": "1895 - 1968",
+      "area": "Estética marxista y crítica de la ideología",
+      "concepts": "Crítica del gusto materialista, oposición a Croce, estructuras lingüísticas e ideológicas",
+      "works": [
+        "Crítica del gusto (1960)",
+        "Rousseau y Marx (1957)"
+      ],
+      "location": [44.353, 11.714],
+      "city": "Imola",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 14,
+      "name": "Pedro Abelardo",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Medieval (Siglo XII)",
+      "era": "1079 - 1142",
+      "area": "Lógica, teología y ética",
+      "concepts": "Ética de la intención moral, conceptualismo (universales como sermones), método dialéctico",
+      "works": [
+        "Sic et Non (1120)",
+        "Ética o Conócete a ti mismo",
+        "Historia de mis desventuras"
+      ],
+      "location": [47.133, -1.333],
+      "city": "Le Pallet (Bretaña)",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 15,
+      "name": "Pierre Gassendi",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Barroco / Siglo XVII",
+      "era": "1592 - 1655",
+      "area": "Filosofía natural y atomismo",
+      "concepts": "Atomismo epicúreo cristiano, empirismo, crítica a Descartes",
+      "works": [
+        "Ejercicios paradójicos contra los aristotélicos",
+        "Syntagma Philosophicum"
+      ],
+      "location": [44.067, 6.233],
+      "city": "Champtercier (Provenza)",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 16,
+      "name": "Étienne Bonnot de Condillac",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Ilustración",
+      "era": "1714 - 1780",
+      "area": "Teoría del conocimiento, sensualismo",
+      "concepts": "Empirismo radical, la estatua hipotética, sensaciones transformadas",
+      "works": [
+        "Tratado de las sensaciones (1754)",
+        "Ensayo sobre el origen de los conocimientos humanos (1746)"
+      ],
+      "location": [45.188, 5.724],
+      "city": "Grenoble",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 17,
+      "name": "Auguste Comte",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Siglo XIX (Positivismo)",
+      "era": "1798 - 1857",
+      "area": "Filosofía de la ciencia y sociología",
+      "concepts": "Ley de los tres estados, positivismo, clasificación de las ciencias, religión de la Humanidad",
+      "works": [
+        "Curso de filosofía positiva (1830-1842)",
+        "Sistema de política positiva"
+      ],
+      "location": [43.610, 3.876],
+      "city": "Montpellier",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 18,
+      "name": "Emmanuel Levinas",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Siglo XX (Fenomenología)",
+      "era": "1906 - 1995",
+      "area": "Ética y fenomenología",
+      "concepts": "Ética como filosofía primera, el rostro del Otro, responsabilidad infinita",
+      "works": [
+        "Totalidad e Infinito (1961)",
+        "De otro modo que ser (1974)"
+      ],
+      "location": [54.898, 23.903],
+      "city": "Nacido en Kaunas (Lituania), nacionalizado francés",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 19,
+      "name": "Gaston Bachelard",
+      "region": "francia",
+      "regionName": "Francia",
+      "subcategory": "Siglo XX (Epistemología)",
+      "era": "1884 - 1962",
+      "area": "Epistemología histórica e imaginación",
+      "concepts": "Ruptura epistemológica, obstáculos epistemológicos, psicoanálisis del fuego y elementos",
+      "works": [
+        "La formación del espíritu científico (1938)",
+        "El agua y los sueños (1942)"
+      ],
+      "location": [48.232, 4.708],
+      "city": "Bar-sur-Aube",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 20,
+      "name": "Charles Bonnet",
+      "region": "suiza",
+      "regionName": "Suiza",
+      "subcategory": "Ilustración",
+      "era": "1720 - 1793",
+      "area": "Filosofía natural y biología teórica",
+      "concepts": "Preformacionismo, evolución biológica, relación materia-conciencia",
+      "works": [
+        "Contemplación de la naturaleza (1764)",
+        "Ensayo analítico sobre las facultades del alma"
+      ],
+      "location": [46.204, 6.143],
+      "city": "Ginebra",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 21,
+      "name": "Jeanne Hersch",
+      "region": "suiza",
+      "regionName": "Suiza",
+      "subcategory": "Siglo XX",
+      "era": "1910 - 2000",
+      "area": "Filosofía de la libertad y la existencia",
+      "concepts": "Libertad humana como núcleo existencial, defensa de los derechos humanos",
+      "works": [
+        "El ser y la forma (1946)",
+        "El derecho de ser un hombre (1968)"
+      ],
+      "location": [46.204, 6.143],
+      "city": "Ginebra",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 22,
+      "name": "Jacob Burckhardt",
+      "region": "suiza",
+      "regionName": "Suiza",
+      "subcategory": "Siglo XIX (Historia)",
+      "era": "1818 - 1897",
+      "area": "Filosofía de la historia y la cultura",
+      "concepts": "Historia como estudio de la cultura, análisis del Renacimiento, el poder como fenómeno cultural",
+      "works": [
+        "La cultura del Renacimiento en Italia (1860)",
+        "Reflexiones sobre la historia universal"
+      ],
+      "location": [47.559, 7.588],
+      "city": "Basilea",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 23,
+      "name": "Jean Piaget",
+      "region": "suiza",
+      "regionName": "Suiza",
+      "subcategory": "Siglo XX (Epistemología)",
+      "era": "1896 - 1980",
+      "area": "Epistemología genética y psicología",
+      "concepts": "Estadios del desarrollo cognitivo, asimilación y acomodación, estructuralismo genético",
+      "works": [
+        "La representación del mundo en el niño (1926)",
+        "Biología y conocimiento (1967)"
+      ],
+      "location": [46.991, 6.931],
+      "city": "Neuchâtel",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 24,
+      "name": "Adolphe Quetelet",
+      "region": "belgica",
+      "regionName": "Bélgica",
+      "subcategory": "Siglo XIX",
+      "era": "1796 - 1874",
+      "area": "Filosofía de la estadística y sociología",
+      "concepts": "Concepto del 'hombre medio', estadística aplicada a fenómenos sociales",
+      "works": [
+        "Sur l'homme et le développement de sus facultés (1835)"
+      ],
+      "location": [51.054, 3.717],
+      "city": "Gante",
+      "color": "#e67e22"
+    },
+    {
+      "id": 25,
+      "name": "Alphonse De Waelhens",
+      "region": "belgica",
+      "regionName": "Bélgica",
+      "subcategory": "Siglo XX (Fenomenología)",
+      "era": "1911 - 1981",
+      "area": "Fenomenología y filosofía de la psiquiatría",
+      "concepts": "Introducción de Heidegger y Merleau-Ponty, estudio sobre la esquizofrenia y la verdad",
+      "works": [
+        "La filosofía de Martin Heidegger (1942)",
+        "La schizophrénie (1972)"
+      ],
+      "location": [51.054, 3.717],
+      "city": "Gante",
+      "color": "#e67e22"
+    },
+    {
+      "id": 26,
+      "name": "Anna Maria van Schurman",
+      "region": "paises_bajos",
+      "regionName": "Países Bajos",
+      "subcategory": "Siglo XVII",
+      "era": "1607 - 1678",
+      "area": "Humanismo cristiano, feminismo filosófico",
+      "concepts": "Derecho de las mujeres a la educación, igualdad espiritual y racional",
+      "works": [
+        "Disertación sobre la aptitud de la mente de la mujer (1638)"
+      ],
+      "location": [52.090, 5.121],
+      "city": "Nacida en Colonia, vivió en Utrecht",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 27,
+      "name": "Hugo Grocio",
+      "region": "paises_bajos",
+      "regionName": "Países Bajos",
+      "subcategory": "Siglo XVII (Derecho)",
+      "era": "1583 - 1645",
+      "area": "Filosofía del derecho natural e internacional",
+      "concepts": "Derecho natural secularizado (etsi Deus non daretur), Mare Liberum",
+      "works": [
+        "De iure belli ac pacis (1625)",
+        "Mare Liberum (1609)"
+      ],
+      "location": [52.011, 4.357],
+      "city": "Delft",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 28,
+      "name": "J. H. van den Berg",
+      "region": "paises_bajos",
+      "regionName": "Países Bajos",
+      "subcategory": "Siglo XX (Fenomenología)",
+      "era": "1914 - 2012",
+      "area": "Fenomenología médica e histórica",
+      "concepts": "Metabletica (historia de las situaciones), fenomenología del cuerpo",
+      "works": [
+        "La fenomenología de la situación (1953)",
+        "Cosas cambiadas (1959)"
+      ],
+      "location": [52.110, 5.181],
+      "city": "De Bilt",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 29,
+      "name": "Moses Mendelssohn",
+      "region": "alemania",
+      "regionName": "Alemania",
+      "subcategory": "Ilustración (Aufklärung)",
+      "era": "1729 - 1786",
+      "area": "Filosofía de la religión y estética",
+      "concepts": "Haskalá (Ilustración judía), inmortalidad del alma, separación Iglesia-Estado",
+      "works": [
+        "Jerusalén (1783)",
+        "Fedón (1767)"
+      ],
+      "location": [51.838, 12.245],
+      "city": "Dessau",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 30,
+      "name": "Johann Georg Hamann",
+      "region": "alemania",
+      "regionName": "Alemania / Prusia",
+      "subcategory": "Siglo XVIII",
+      "era": "1730 - 1788",
+      "area": "Filosofía del lenguaje y crítica a la Ilustración",
+      "concepts": "El lenguaje como madre de la razón, crítica al racionalismo abstracto, Sturm und Drang",
+      "works": [
+        "Socráticos Memorabilia (1759)",
+        "Metacrítica sobre el purismo de la razón"
+      ],
+      "location": [54.710, 20.452],
+      "city": "Königsberg",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 31,
+      "name": "Max Stirner",
+      "region": "alemania",
+      "regionName": "Alemania",
+      "subcategory": "Siglo XIX",
+      "era": "1806 - 1856",
+      "area": "Individualismo anarquista",
+      "concepts": "Crítica a los 'fantasmas' (ideologías), el Único, la propiedad de sí",
+      "works": [
+        "El único y su propiedad (1844)"
+      ],
+      "location": [49.945, 11.571],
+      "city": "Bayreuth",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 32,
+      "name": "Friedrich Schleiermacher",
+      "region": "alemania",
+      "regionName": "Alemania",
+      "subcategory": "Romanticismo (Siglo XIX)",
+      "era": "1768 - 1834",
+      "area": "Hermenéutica y filosofía de la religión",
+      "concepts": "Círculo hermenéutico, religión como sentimiento del Universo",
+      "works": [
+        "Sobre la religión (1799)",
+        "Hermenéutica"
+      ],
+      "location": [51.107, 17.038],
+      "city": "Breslau",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 33,
+      "name": "Günther Anders",
+      "region": "alemania",
+      "regionName": "Alemania",
+      "subcategory": "Siglo XX (Tecnología)",
+      "era": "1902 - 1992",
+      "area": "Filosofía de la tecnología y ética nuclear",
+      "concepts": "Desactualización del hombre, vergüenza prometeica, obsolescencia del hombre",
+      "works": [
+        "La obsolescencia del hombre (1956)",
+        "Nosotros, hijos de Eichmann"
+      ],
+      "location": [51.107, 17.038],
+      "city": "Breslau",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 34,
+      "name": "Helmuth Plessner",
+      "region": "alemania",
+      "regionName": "Alemania",
+      "subcategory": "Siglo XX (Antropología)",
+      "era": "1892 - 1985",
+      "area": "Antropología filosófica y filosofía de la vida",
+      "concepts": "Posición excéntrica del hombre, tener vs ser un cuerpo, distancia constitutiva",
+      "works": [
+        "Los grados de lo orgánico y el hombre (1928)",
+        "Poder y naturaleza humana"
+      ],
+      "location": [50.082, 8.239],
+      "city": "Wiesbaden",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": 35,
+      "name": "Bernard Bolzano",
+      "region": "austria",
+      "regionName": "Imperio Austríaco",
+      "subcategory": "Ilustración (Siglo XVIII-XIX)",
+      "era": "1781 - 1848",
+      "area": "Lógica y matemática",
+      "concepts": "Proposiciones en sí (Sätze an sich), verdad independiente de la psique, paradojas del infinito",
+      "works": [
+        "La teoría de la ciencia (1837)",
+        "Paradojas del infinito"
+      ],
+      "location": [50.075, 14.437],
+      "city": "Praga (Bohemia)",
+      "color": "#d35400"
+    },
+    {
+      "id": 36,
+      "name": "Franz Brentano",
+      "region": "austria",
+      "regionName": "Austria",
+      "subcategory": "Siglo XIX (Mente)",
+      "era": "1838 - 1917",
+      "area": "Psicología descriptiva y fenomenología",
+      "concepts": "Intencionalidad de la conciencia, toda conciencia es conciencia de algo",
+      "works": [
+        "Psicología desde el punto de vista empírico (1874)"
+      ],
+      "location": [50.007, 7.587],
+      "city": "Nacido en Marienberg, desarrolló carrera en Viena",
+      "color": "#d35400"
+    },
+    {
+      "id": 37,
+      "name": "Otto Neurath",
+      "region": "austria",
+      "regionName": "Austria",
+      "subcategory": "Siglo XX (Círculo de Viena)",
+      "era": "1882 - 1945",
+      "area": "Empirismo lógico y sociología",
+      "concepts": "Fisicalismo, unidad de la ciencia, sistema de pictogramas Isotype",
+      "works": [
+        "Sociología empírica (1931)",
+        "Enciclopedia y Unidad de la Ciencia"
+      ],
+      "location": [48.208, 16.373],
+      "city": "Viena",
+      "color": "#d35400"
+    },
+    {
+      "id": 38,
+      "name": "Ernst Mach",
+      "region": "austria",
+      "regionName": "Austria / Moravia",
+      "subcategory": "Siglo XIX-XX",
+      "era": "1838 - 1916",
+      "area": "Empiriocriticismo y filosofía de la física",
+      "concepts": "Mundo como sensaciones, crítica al espacio/tiempo absoluto, principio de economía del pensamiento",
+      "works": [
+        "El análisis de las sensaciones (1886)",
+        "Conocimiento y error"
+      ],
+      "location": [49.195, 16.606],
+      "city": "Chirlitz (Moravia)",
+      "color": "#d35400"
+    },
+    {
+      "id": 39,
+      "name": "Karl Popper",
+      "region": "austria",
+      "regionName": "Austria",
+      "subcategory": "Siglo XX",
+      "era": "1902 - 1994",
+      "area": "Filosofía de la ciencia y política",
+      "concepts": "Criterio de falsabilidad, racionalismo crítico, sociedad abierta vs historicismo",
+      "works": [
+        "La lógica de la investigación científica (1934)",
+        "La sociedad abierta y sus enemigos"
+      ],
+      "location": [48.208, 16.373],
+      "city": "Viena",
+      "color": "#d35400"
+    },
+    {
+      "id": 40,
+      "name": "Jan Amos Komenský (Comenio)",
+      "region": "república checa",
+      "regionName": "Tierras Checas",
+      "subcategory": "Renacimiento",
+      "era": "1592 - 1670",
+      "area": "Filosofía de la educación y pansofismo",
+      "concepts": "Educación universal, enseñar todo a todos, armonía humana mediante el saber",
+      "works": [
+        "Didáctica Magna (1638)",
+        "El laberinto del mundo"
+      ],
+      "location": [48.963, 17.648],
+      "city": "Moravia (Uherský Brod)",
+      "color": "#27ae60"
+    },
+    {
+      "id": 41,
+      "name": "Jan Patočka",
+      "region": "república checa",
+      "regionName": "Checoslovaquia",
+      "subcategory": "Siglo XX (Fenomenología)",
+      "era": "1907 - 1977",
+      "area": "Fenomenología y filosofía de la historia",
+      "concepts": "Cuidado del alma, tres movimientos de la vida, solidaridad de los conmovidos, Carta 77",
+      "works": [
+        "Ensayos heréticos sobre la filosofía de la historia (1975)",
+        "Platón y Europa"
+      ],
+      "location": [50.075, 14.437],
+      "city": "Praga",
+      "color": "#27ae60"
+    },
+    {
+      "id": 42,
+      "name": "Andrzej Frycz Modrzewski",
+      "region": "polonia",
+      "regionName": "Polonia",
+      "subcategory": "Renacimiento (Siglo XVI)",
+      "era": "1503 - 1572",
+      "area": "Filosofía política y derecho",
+      "concepts": "Igualdad ante la ley, reforma del estado basada en el bien común",
+      "works": [
+        "De Republica emendanda (1551)"
+      ],
+      "location": [51.503, 19.981],
+      "city": "Wolbórz",
+      "color": "#c0392b"
+    },
+    {
+      "id": 43,
+      "name": "Roman Ingarden",
+      "region": "polonia",
+      "regionName": "Polonia",
+      "subcategory": "Siglo XX (Fenomenología)",
+      "era": "1893 - 1970",
+      "area": "Fenomenología realista y estética",
+      "concepts": "Ontología de la obra de arte estratificada, realismo vs idealismo husserliano",
+      "works": [
+        "La obra de arte literaria (1931)",
+        "La disputa sobre la existencia del mundo"
+      ],
+      "location": [50.064, 19.945],
+      "city": "Cracovia",
+      "color": "#c0392b"
+    },
+    {
+      "id": 44,
+      "name": "Juri Lotman",
+      "region": "estonia",
+      "regionName": "Estonia",
+      "subcategory": "Siglo XX (Semiótica)",
+      "era": "1922 - 1993",
+      "area": "Semiótica de la cultura",
+      "concepts": "Semiosfera, sistemas culturales de modelización, estructura del texto",
+      "works": [
+        "La semiosfera (1984)",
+        "La estructura del texto artístico"
+      ],
+      "location": [58.378, 26.729],
+      "city": "Tartu",
+      "color": "#2980b9"
+    },
+    {
+      "id": 45,
+      "name": "Algirdas Julien Greimas",
+      "region": "lituania",
+      "regionName": "Lituania / Francia",
+      "subcategory": "Siglo XX (Semiótica)",
+      "era": "1917 - 1992",
+      "area": "Semiótica estructural",
+      "concepts": "Semiótica generativa, cuadrado semiótico, modelo actancial",
+      "works": [
+        "Semántica estructural (1966)",
+        "Del sentido"
+      ],
+      "location": [54.898, 23.903],
+      "city": "Nacido en Rusia, de familia lituana, activo en París",
+      "color": "#8e44ad"
+    },
+    {
+      "id": 46,
+      "name": "Vladímir Soloviov",
+      "region": "rusia",
+      "regionName": "Rusia",
+      "subcategory": "Siglo XIX (Idealismo)",
+      "era": "1853 - 1900",
+      "area": "Filosofía religiosa y ecumenismo",
+      "concepts": "Sophia (Sabiduría Divina), Todo-unidad (vseedinstvo), teocracia espiritual",
+      "works": [
+        "La Rusia y la Iglesia Universal (1889)",
+        "Tres diálogos sobre la guerra"
+      ],
+      "location": [55.755, 37.617],
+      "city": "Moscú",
+      "color": "#16a085"
+    },
+    {
+      "id": 47,
+      "name": "Mikhail Bakhtin",
+      "region": "rusia",
+      "regionName": "Rusia",
+      "subcategory": "Siglo XX",
+      "era": "1895 - 1975",
+      "area": "Filosofía del lenguaje y teoría literaria",
+      "concepts": "Dialogismo, polifonía, carnavalización, cronotopo",
+      "works": [
+        "Problemas de la poética de Dostoievski",
+        "La cultura popular en la Edad Media"
+      ],
+      "location": [52.965, 36.063],
+      "city": "Oriol",
+      "color": "#16a085"
+    },
+    {
+      "id": 48,
+      "name": "Hryhorii Skovoroda",
+      "region": "ucrania",
+      "regionName": "Ucrania",
+      "subcategory": "Renacimiento Cosaco (Siglo XVIII)",
+      "era": "1722 - 1794",
+      "area": "Filosofía moral y mística cristiana",
+      "concepts": "El 'corazón' como centro espiritual, búsqueda de la afinidad (srodnist), crítica al materialismo",
+      "works": [
+        "El jardín de canciones divinas",
+        "Diálogos"
+      ],
+      "location": [50.258, 32.935],
+      "city": "Chernuhy (Hetmanato Cosaco)",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 49,
+      "name": "Mijailo Hrushevski",
+      "region": "ucrania",
+      "regionName": "Ucrania",
+      "subcategory": "Nacionalismo y Filosofía del Estado",
+      "era": "1866 - 1934",
+      "area": "Filosofía de la historia e historiografía",
+      "concepts": "Continuidad de la historia ucraniana (Ucrania-Rus), identidad nacional diferenciada",
+      "works": [
+        "Historia de Ucrania-Rus (10 vols.)"
+      ],
+      "location": [51.144, 23.469],
+      "city": "Chelm (Reino de Polonia / Imperio Ruso)",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 50,
+      "name": "Lucian Blaga",
+      "region": "rumania",
+      "regionName": "Rumanía",
+      "subcategory": "Siglo XX (Ontología)",
+      "era": "1895 - 1961",
+      "area": "Filosofía de la cultura y ontología",
+      "concepts": "Inconsciente estilístico, misterios mayores, espacio miorítico (espacio vital rumano)",
+      "works": [
+        "La trilogía del conocimiento",
+        "La trilogía de la cultura"
+      ],
+      "location": [45.864, 23.553],
+      "city": "Lancrăm",
+      "color": "#e67e22"
+    },
+    {
+      "id": 51,
+      "name": "Mircea Eliade",
+      "region": "rumania",
+      "regionName": "Rumanía",
+      "subcategory": "Siglo XX (Religión)",
+      "era": "1907 - 1986",
+      "area": "Historia de las religiones y filosofía de lo sagrado",
+      "concepts": "Hierofanía, tiempo mítico (illud tempus), dialéctica de lo sagrado y lo profano",
+      "works": [
+        "El mito del eterno retorno",
+        "Lo sagrado y lo profano"
+      ],
+      "location": [44.426, 26.102],
+      "city": "Bucarest",
+      "color": "#e67e22"
+    },
+    {
+      "id": 52,
+      "name": "Francysk Skaryna",
+      "region": "bielorrusia",
+      "regionName": "Bielorrusia",
+      "subcategory": "Renacimiento (Siglo XVI)",
+      "era": "c. 1490 - 1551",
+      "area": "Humanismo y filosofía del lenguaje",
+      "concepts": "Cultura vernácula, educación popular, traducción bíblica como herramienta de progreso",
+      "works": [
+        "Biblia Rutena (1517-1519)"
+      ],
+      "location": [55.485, 28.768],
+      "city": "Polotsk (Gran Ducado de Lituania)",
+      "color": "#95a5a6"
+    },
+    {
+      "id": 53,
+      "name": "Dimitrie Cantemir",
+      "region": "moldavia",
+      "regionName": "Moldavia",
+      "subcategory": "Ilustración (Siglo XVIII)",
+      "era": "1673 - 1723",
+      "area": "Filosofía de la historia y geopolítica",
+      "concepts": "Enciclopedismo, descripción sistemática de pueblos, historia del Imperio Otomano",
+      "works": [
+        "Descriptio Moldaviae",
+        "Historia del crecimiento y decadencia del Imperio Otomano"
+      ],
+      "location": [46.291, 28.058],
+      "city": "Silișteni",
+      "color": "#34495e"
+    },
+    {
+      "id": 54,
+      "name": "Sexto Empírico",
+      "region": "grecia",
+      "regionName": "Grecia",
+      "subcategory": "Período Helenístico",
+      "era": "c. 160 - 210 d.C.",
+      "area": "Escepticismo Pirrónico",
+      "concepts": "Epoché (suspensión del juicio), ataraxia, tropologías escépticas",
+      "works": [
+        "Esbozos Pirrónicos",
+        "Contra los Matemáticos"
+      ],
+      "location": [31.200, 29.918],
+      "city": "Activo en Alejandría / Roma",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 55,
+      "name": "Cornelius Castoriadis",
+      "region": "grecia",
+      "regionName": "Grecia / Francia",
+      "subcategory": "Siglo XX",
+      "era": "1922 - 1997",
+      "area": "Filosofía política y ontología",
+      "concepts": "Imaginario radical, autonomía social e individual, reflexividad",
+      "works": [
+        "La institución imaginaria de la sociedad",
+        "Los dominios del hombre"
+      ],
+      "location": [41.008, 28.978],
+      "city": "Nacido en Constantinopla, carrera en París",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 56,
+      "name": "Juan Duns Scoto",
+      "region": "islas_britanicas",
+      "regionName": "Escocia",
+      "subcategory": "Baja Edad Media / Escolástica",
+      "era": "1266 - 1308",
+      "area": "Teología y metafísica franciscana",
+      "concepts": "Haecceitas (individualidad), univocidad del ser, primacía de la voluntad",
+      "works": [
+        "Ordinatio (Comentario a las Sentencias)",
+        "Tratado del Primer Principio"
+      ],
+      "location": [55.777, -2.346],
+      "city": "Duns (Escocia)",
+      "color": "#3498db"
+    },
+    {
+      "id": 57,
+      "name": "Guillermo de Ockham",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Escolástica / Nominalismo",
+      "era": "1285 - 1347",
+      "area": "Lógica y filosofía política",
+      "concepts": "Navaja de Ockham (economía ontológica), nominalismo, separación fe-razón",
+      "works": [
+        "Summa Logicae",
+        "Dialogus"
+      ],
+      "location": [51.304, -0.468],
+      "city": "Ockham (Surrey)",
+      "color": "#3498db"
+    },
+    {
+      "id": 58,
+      "name": "Thomas Reid",
+      "region": "islas_britanicas",
+      "regionName": "Escocia",
+      "subcategory": "Ilustración Escocesa",
+      "era": "1710 - 1796",
+      "area": "Filosofía del sentido común",
+      "concepts": "Crítica al camino de las ideas, realismo directo, principios creenciales innatos",
+      "works": [
+        "Investigación sobre la mente humana",
+        "Ensayos sobre los poderes intelectuales"
+      ],
+      "location": [57.012, -2.553],
+      "city": "Strachan",
+      "color": "#3498db"
+    },
+    {
+      "id": 59,
+      "name": "G. E. Moore",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Filosofía Analítica Temprana",
+      "era": "1873 - 1958",
+      "area": "Ética y epistemología",
+      "concepts": "Falacia naturalista, defensa del sentido común, 'bueno' como cualidad simple",
+      "works": [
+        "Principia Ethica (1903)",
+        "Una defensa del sentido común"
+      ],
+      "location": [51.507, -0.127],
+      "city": "Londres",
+      "color": "#3498db"
+    },
+    {
+      "id": 60,
+      "name": "Axel Hägerström",
+      "region": "suecia",
+      "regionName": "Suecia",
+      "subcategory": "Realismo Jurídico (Siglo XX)",
+      "era": "1868 - 1939",
+      "area": "Filosofía del derecho y realismo axiológico",
+      "concepts": "Inexistencia objetiva de valores, crítica anti-metafísica al derecho",
+      "works": [
+        "Sobre la verdad de las representaciones morales",
+        "El concepto romano de obligación"
+      ],
+      "location": [57.858, 14.597],
+      "city": "Vireda / Uppsala",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 61,
+      "name": "Søren Kierkegaard",
+      "region": "dinamarca",
+      "regionName": "Dinamarca",
+      "subcategory": "Filosofía Existencial",
+      "era": "1813 - 1855",
+      "area": "Existencialismo y filosofía de la religión",
+      "concepts": "Subjetividad como verdad, estadios de la vida, angustia, salto a la fe",
+      "works": [
+        "Temor y Temblor",
+        "O lo uno o lo otro",
+        "La enfermedad mortal"
+      ],
+      "location": [55.676, 12.568],
+      "city": "Copenhague",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 62,
+      "name": "Arne Næss",
+      "region": "noruega",
+      "regionName": "Noruega",
+      "subcategory": "Ecología Profunda (Siglo XX)",
+      "era": "1912 - 2009",
+      "area": "Ecosofía y semántica empírica",
+      "concepts": "Ecología profunda vs superficial, valor inherente de la vida, biocentricismo",
+      "works": [
+        "Ecology, Community and Lifestyle",
+        "Interpretation and Preciseness"
+      ],
+      "location": [59.913, 10.752],
+      "city": "Oslo",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 63,
+      "name": "Peter Wessel Zapffe",
+      "region": "noruega",
+      "regionName": "Noruega",
+      "subcategory": "Pesimismo Filosófico",
+      "era": "1899 - 1990",
+      "area": "Filosofía pesimista y biológica",
+      "concepts": "Sobrecalificación biológica, conciencia trágica, represión (anclaje, distracción)",
+      "works": [
+        "Sobre lo trágico",
+        "El último Mesías"
+      ],
+      "location": [69.649, 18.956],
+      "city": "Tromsø",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 64,
+      "name": "Panteleimon Kulish",
+      "region": "ucrania",
+      "regionName": "Ucrania",
+      "subcategory": "Nacionalismo Cultural (Siglo XIX)",
+      "era": "1819 - 1897",
+      "area": "Filosofía de la cultura e historia",
+      "concepts": "Misión histórica de la nación ucraniana, nacionalismo cultural, identidad lingüística",
+      "works": [
+        "Historia de la reunificación de Rus",
+        "Crónica de la familia Kulish"
+      ],
+      "location": [51.713, 33.473],
+      "city": "Voronizh (Gobernación de Chernigov)",
+      "color": "#f1c40f"
+    },
+    {
+      "id": 65,
+      "name": "Ion Heliade Rădulescu",
+      "region": "rumania",
+      "regionName": "Rumanía",
+      "subcategory": "Siglo XIX (Generación de 1848)",
+      "era": "1802 - 1872",
+      "area": "Filosofía del lenguaje y nacionalismo cultural",
+      "concepts": "Papel unificador y espiritual de la lengua rumana, modernización literaria",
+      "works": [
+        "Gramática rumana",
+        "Curso de filosofía"
+      ],
+      "location": [44.925, 25.456],
+      "city": "Târgoviște (Valaquia)",
+      "color": "#e67e22"
+    },
+    {
+      "id": 66,
+      "name": "Titu Maiorescu",
+      "region": "rumania",
+      "regionName": "Rumanía",
+      "subcategory": "Siglo XIX-XX",
+      "era": "1840 - 1917",
+      "area": "Crítica literaria y filosofía de la cultura",
+      "concepts": "Formas sin fondo (teoría de la inautenticidad cultural), desarrollo orgánico",
+      "works": [
+        "Críticas (volúmenes varios)"
+      ],
+      "location": [44.228, 23.794],
+      "city": "Craiova",
+      "color": "#e67e22"
+    },
+    {
+      "id": 67,
+      "name": "Kazimierz Narbutt",
+      "region": "bielorrusia",
+      "regionName": "Bielorrusia",
+      "subcategory": "Ilustración (Siglo XVIII)",
+      "era": "1738 - 1807",
+      "area": "Filosofía de la historia e ilustración",
+      "concepts": "Estudio crítico de la historia del Gran Ducado de Lituania, pensamiento ilustrado",
+      "works": [
+        "Historia de la nación lituana"
+      ],
+      "location": [54.016, 25.216],
+      "city": "Szawry",
+      "color": "#95a5a6"
+    },
+    {
+      "id": 68,
+      "name": "Yanka Kupala",
+      "region": "bielorrusia",
+      "regionName": "Bielorrusia",
+      "subcategory": "Siglo XX",
+      "era": "1882 - 1942",
+      "area": "Filosofía poética y pensamiento nacional",
+      "concepts": "Reflexión sobre el destino y la libertad del pueblo bielorruso",
+      "works": [
+        "El laúd eterno (1908)",
+        "Hijo de la tierra (1922)"
+      ],
+      "location": [54.261, 27.185],
+      "city": "Viazynka (Minsk)",
+      "color": "#95a5a6"
+    },
+    {
+      "id": 69,
+      "name": "Miron Costin",
+      "region": "moldavia",
+      "regionName": "Moldavia",
+      "subcategory": "Siglo XVII (Humanismo)",
+      "era": "1633 - 1691",
+      "area": "Filosofía de la historia y política",
+      "concepts": "Origen latino de los moldavos, destino político de los principados rumanos",
+      "works": [
+        "La crónica de la tierra de Moldavia (1677)",
+        "Sobre el pueblo moldavo"
+      ],
+      "location": [47.158, 27.601],
+      "city": "Moldavia",
+      "color": "#34495e"
+    },
+    {
+      "id": 70,
+      "name": "Miguel Psellos",
+      "region": "grecia",
+      "regionName": "Bizancio",
+      "subcategory": "Siglo XI",
+      "era": "1017 - 1078",
+      "area": "Filosofía neoplatónica y enciclopedismo",
+      "concepts": "Síntesis cristianismo-neoplatonismo, estudio de Proclo, saber universal",
+      "works": [
+        "Chronographia",
+        "De omnifaria doctrina"
+      ],
+      "location": [41.008, 28.978],
+      "city": "Constantinopla",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 71,
+      "name": "Rigas Feraios",
+      "region": "grecia",
+      "regionName": "Grecia",
+      "subcategory": "Ilustración (Siglo XVIII)",
+      "era": "1757 - 1798",
+      "area": "Filosofía política e ilustración revolucionaria",
+      "concepts": "Federación balcánica, soberanía popular, derechos humanos",
+      "works": [
+        "Nueva Constitución Política",
+        "Carta de los Derechos del Hombre"
+      ],
+      "location": [39.385, 22.753],
+      "city": "Velestino (Tesalia)",
+      "color": "#1abc9c"
+    },
+    {
+      "id": 72,
+      "name": "Roberto Grosseteste",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Baja Edad Media",
+      "era": "c. 1175 - 1253",
+      "area": "Filosofía natural y metafísica de la luz",
+      "concepts": "La luz como primera forma corpórea, método de resolución y composición",
+      "works": [
+        "De Luce (Sobre la Luz)",
+        "De iride",
+        "Hexaëmeron"
+      ],
+      "location": [52.243, 0.713],
+      "city": "Suffolk / Oxford",
+      "color": "#3498db"
+    },
+    {
+      "id": 73,
+      "name": "Roger Bacon",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Baja Edad Media",
+      "era": "c. 1214 - 1292",
+      "area": "Empirismo temprano y filosofía natural",
+      "concepts": "Importancia de la experiencia (experientia), crítica a la autoridad, matemáticas en la ciencia",
+      "works": [
+        "Opus Maius",
+        "Opus Minus"
+      ],
+      "location": [50.963, -2.684],
+      "city": "Ilchester / Oxford",
+      "color": "#3498db"
+    },
+    {
+      "id": 74,
+      "name": "Francis Hutcheson",
+      "region": "islas_britanicas",
+      "regionName": "Escocia",
+      "subcategory": "Ilustración Escocesa",
+      "era": "1694 - 1746",
+      "area": "Filosofía moral y estética",
+      "concepts": "Sentido moral innato, 'la mayor felicidad para el mayor número'",
+      "works": [
+        "Investigación sobre el origen de nuestras ideas de belleza y virtud (1725)"
+      ],
+      "location": [54.607, -5.930],
+      "city": "Nacido en Úlster, carrera en Glasgow",
+      "color": "#3498db"
+    },
+    {
+      "id": 75,
+      "name": "William Godwin",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Ilustración / Anarquismo",
+      "era": "1756 - 1836",
+      "area": "Filosofía política anarquista",
+      "concepts": "Perfectibilismo humano, abolición de instituciones coercitivas, justicia imparcial",
+      "works": [
+        "Investigación acerca de la justicia política (1793)"
+      ],
+      "location": [52.664, 0.160],
+      "city": "Wisbech (Cambridgeshire)",
+      "color": "#3498db"
+    },
+    {
+      "id": 76,
+      "name": "R. G. Collingwood",
+      "region": "islas_britanicas",
+      "regionName": "Inglaterra",
+      "subcategory": "Idealismo Británico",
+      "era": "1889 - 1943",
+      "area": "Filosofía de la historia y metafísica",
+      "concepts": "Re-enactment (re-creación histórica), presupuestos absolutos, arte como expresión",
+      "works": [
+        "Idea de la historia (1946)",
+        "Ensayo sobre la metafísica"
+      ],
+      "location": [54.283, -2.933],
+      "city": "Lancashire / Oxford",
+      "color": "#3498db"
+    },
+    {
+      "id": 77,
+      "name": "Christopher Jacob Boström",
+      "region": "suecia",
+      "regionName": "Suecia",
+      "subcategory": "Idealismo (Siglo XIX)",
+      "era": "1797 - 1866",
+      "area": "Idealismo personalista y filosofía del Estado",
+      "concepts": "Personlighet como única realidad, el Estado como encarnación ética",
+      "works": [
+        "Líneas básicas para una ética filosófica"
+      ],
+      "location": [65.317, 21.491],
+      "city": "Piteå / Uppsala",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 78,
+      "name": "Knud Ejler Løgstrup",
+      "region": "dinamarca",
+      "regionName": "Dinamarca",
+      "subcategory": "Ética (Siglo XX)",
+      "era": "1905 - 1981",
+      "area": "Ética fenomenológica",
+      "concepts": "Exigencia ética silenciosa, confianza interpersonal, crítica al kantismo",
+      "works": [
+        "La exigencia ética (1956)",
+        "Cuentas pendientes con Kierkegaard"
+      ],
+      "location": [56.157, 10.210],
+      "city": "Copenhague / Aarhus",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 79,
+      "name": "J. V. Snellman",
+      "region": "finlandia",
+      "regionName": "Finlandia",
+      "subcategory": "Idealismo Hegeliano y Nacionalismo (Siglo XIX)",
+      "era": "1806 - 1881",
+      "area": "Filosofía del Estado, nacionalismo e idealismo hegeliano",
+      "concepts": "Conciencia cultural nacional a través del idioma, el Estado como realización ética de la nación",
+      "works": [
+        "Läran om staten (La doctrina del Estado, 1842)",
+        "Versuch einer spekulativen Entwicklung der Idee der Persönlichkeit (1841)"
+      ],
+      "location": [59.3293, 18.0686],
+      "city": "Nacido en Estocolmo, desarrolló su carrera en Finlandia",
+      "color": "#34495e"
+    },
+    {
+      "id": 80,
+      "name": "Eino Kaila",
+      "region": "finlandia",
+      "regionName": "Finlandia",
+      "subcategory": "Neopositivismo y Psicología Filosófica (Siglo XX)",
+      "era": "1890 - 1958",
+      "area": "Psicología filosófica, neopositivismo y teoría de la ciencia",
+      "concepts": "Síntesis entre empirismo lógico y psicología de la Gestalt, análisis de la experiencia de la realidad",
+      "works": [
+        "Personallisuus (Personalidad, 1934)",
+        "Inhimillinen tieto (Conocimiento humano, 1939)"
+      ],
+      "location": [63.0011, 23.7914],
+      "city": "Alajärvi; profesor en Turku y Helsinki",
+      "color": "#34495e"
+    },
+    {
+      "id": 81,
+      "name": "Georg Henrik von Wright",
+      "region": "finlandia",
+      "regionName": "Finlandia",
+      "subcategory": "Lógica Filosófica y Filosofía de la Acción (Siglo XX)",
+      "era": "1916 - 2003",
+      "area": "Lógica filosófica, filosofía de la acción y crítica tecnológica",
+      "concepts": "Lógica deóntica (normas), devaluación de los fines en el progreso tecnológico",
+      "works": [
+        "An Essay in Deontic Logic and the General Theory of Action (1968)",
+        "The Varieties of Goodness (1963)",
+        "Myten om framsteget (El mito del progreso, 1993)"
+      ],
+      "location": [60.1695, 24.9354],
+      "city": "Helsinki",
+      "color": "#34495e"
+    },
+    {
+      "id": 82,
+      "name": "Jaakko Hintikka",
+      "region": "finlandia",
+      "regionName": "Finlandia",
+      "subcategory": "Lógica y Filosofía del Lenguaje (Siglo XX)",
+      "era": "1929 - 2015",
+      "area": "Lógica epistémica y semántica de mundos posibles",
+      "concepts": "Lógica del conocimiento y la creencia, semántica de juegos para el lenguaje natural",
+      "works": [
+        "Knowledge and Belief (1962)",
+        "Models for Modalities (1969)"
+      ],
+      "location": [60.1695, 24.9354],
+      "city": "Helsinki; carrera en Stanford y Boston (EE.UU.)",
+      "color": "#34495e"
+    },
+    {
+      "id": 83,
+      "name": "Páll Skúlason",
+      "region": "islandia",
+      "regionName": "Islandia",
+      "subcategory": "Filosofía de la Tecnología (Siglos XX-XXI)",
+      "era": "1945 - 2015",
+      "area": "Filosofía práctica, ética y antropología filosófica",
+      "concepts": "Transformación de la autocomprensión humana por la tecnología, ética de la responsabilidad y dignidad",
+      "works": [
+        "Um tæknina (Sobre la tecnología, 1993)",
+        "Ást og ánægja (Amor y placer, 2000)"
+      ],
+      "location": [64.1265, -21.8174],
+      "city": "Reikiavik",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 84,
+      "name": "Vilhjálmur Árnason",
+      "region": "islandia",
+      "regionName": "Islandia",
+      "subcategory": "Ética Aplicada y Bioética (Siglos XX-XXI)",
+      "era": "1953,
+      "area": "Bioética y filosofía de la tecnología",
+      "concepts": "Fundamentos éticos de la biotecnología y genética, marcos regulatorios en investigación médica",
+      "works": [
+        "Siðferði og sameiginleg ábyrgð (1995)"
+      ],
+      "location": [64.9631, -19.0208],
+      "city": "Islandia; profesor en la Universidad de Islandia",
+      "color": "#9b59b6"
+    },
+    {
+      "id": 85,
+      "name": "Jón Ólafsson",
+      "region": "islandia",
+      "regionName": "Islandia",
+      "subcategory": "Filosofía Política (Siglos XX-XXI)",
+      "era": "1964,
+      "area": "Teoría de la democracia y estudios sobre los medios",
+      "concepts": "Esfera pública en la era digital, desafíos de la desinformación, democracia deliberativa",
+      "works": [
+        "Sjálfstætt fólk á netinu? (2005)"
+      ],
+      "location": [64.1265, -21.8174],
+      "city": "Reikiavik",
+      "color": "#9b59b6"
+    }
+  ]
+}

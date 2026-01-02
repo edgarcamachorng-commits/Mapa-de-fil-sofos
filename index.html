@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas Filosófico Europeo - Más Allá del Canon</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1><i class="fas fa-map-marked-alt"></i> Atlas Filosófico Europeo</h1>
+                <p class="subtitle">Pensadores significativos más allá del canon tradicional • 
+                    <span id="philosopher-count" class="counter">Cargando...</span> filósofos
+                </p>
+                <div class="methodology-badge">
+                    <i class="fas fa-graduation-cap"></i> Rigor académico • Regiones históricas • Fuentes verificadas
+                </div>
+            </div>
+        </header>
+        
+        <div class="content">
+            <!-- Mapa principal -->
+            <div id="map"></div>
+            
+            <!-- Panel lateral -->
+            <div class="sidebar">
+                <div class="sidebar-header">
+                    <h2><i class="fas fa-search"></i> Explorador</h2>
+                    <p class="sidebar-subtitle">Filtra y explora por región, época o concepto</p>
+                </div>
+                
+                <!-- Barra de búsqueda -->
+                <div class="search-container">
+                    <div class="search-box">
+                        <i class="fas fa-search search-icon"></i>
+                        <input type="text" id="philosopher-search" placeholder="Buscar filósofo, concepto, obra...">
+                        <button id="clear-search" class="clear-btn" title="Limpiar búsqueda">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="search-hints">
+                        <small>Ej: "Averroes", "fenomenología", "Siglo XX", "derecho natural"</small>
+                    </div>
+                </div>
+                
+                <!-- Filtros por región -->
+                <div class="filter-section">
+                    <h3><i class="fas fa-filter"></i> Filtrar por Región</h3>
+                    <div class="region-filter" id="region-filter">
+                        <!-- Los botones se generan dinámicamente -->
+                        <div class="filter-loading">
+                            <i class="fas fa-spinner fa-spin"></i> Cargando regiones...
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Filtros por época -->
+                <div class="filter-section">
+                    <h3><i class="fas fa-history"></i> Filtrar por Época</h3>
+                    <div class="era-filter" id="era-filter">
+                        <!-- Se generará dinámicamente -->
+                    </div>
+                </div>
+                
+                <!-- Información del filósofo seleccionado -->
+                <div class="info-container">
+                    <div id="philosopher-details">
+                        <div class="intro-panel">
+                            <div class="intro-icon">
+                                <i class="fas fa-compass"></i>
+                            </div>
+                            <h2>Bienvenido al Atlas Filosófico</h2>
+                            <p class="intro-text">
+                                Este mapa interactivo presenta una selección rigurosa de filósofos europeos 
+                                más allá de las figuras canónicas más difundidas. Cada marcador representa 
+                                un pensador con contribuciones documentadas y verificadas.
+                            </p>
+                            <div class="instructions">
+                                <h4><i class="fas fa-info-circle"></i> Cómo usar:</h4>
+                                <ul>
+                                    <li><strong>Haz clic</strong> en cualquier marcador del mapa para ver detalles</li>
+                                    <li><strong>Filtra</strong> por región o época usando los botones</li>
+                                    <li><strong>Busca</strong> términos específicos en la barra de búsqueda</li>
+                                    <li><strong>Haz clic en el título</strong> de cualquier filósofo para centrar el mapa</li>
+                                </ul>
+                            </div>
+                            <div class="methodology-note">
+                                <h4><i class="fas fa-exclamation-circle"></i> Nota metodológica:</h4>
+                                <p>Se utiliza la <strong>región cultural o política histórica</strong> (no el concepto 
+                                moderno de "nación") para una ubicación precisa. Todos los filósofos incluidos 
+                                cumplen con el criterio de haber producido obras filosóficas significativas 
+                                confirmadas por consenso académico.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Leyenda -->
+                <div class="legend-section">
+                    <h3><i class="fas fa-key"></i> Leyenda</h3>
+                    <div class="legend" id="legend">
+                        <!-- Se generará dinámicamente -->
+                    </div>
+                </div>
+                
+                <!-- Estadísticas -->
+                <div class="stats-section">
+                    <div class="stat-item">
+                        <span class="stat-label">Total filósofos:</span>
+                        <span class="stat-value" id="total-count">--</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Regiones:</span>
+                        <span class="stat-value" id="region-count">--</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Siglos cubiertos:</span>
+                        <span class="stat-value" id="century-range">--</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <div class="footer-content">
+                <div class="footer-left">
+                    <p><i class="fas fa-database"></i> <strong>Base de datos académica</strong> • Actualización continua • 
+                    <a href="#" id="data-source-link">Ver fuentes y metodología</a></p>
+                </div>
+                <div class="footer-right">
+                    <p class="timestamp">
+                        <i class="far fa-clock"></i> Última actualización: 
+                        <span id="current-date">--/--/----</span>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Modal para información detallada (oculto por defecto) -->
+    <div id="detail-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Detalles del Filósofo</h2>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- Contenido dinámico -->
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
